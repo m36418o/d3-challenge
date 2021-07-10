@@ -5,7 +5,7 @@ In this module, we used the prior knowledge of graphs from plotly and apply it w
 ## File Content
 * index.html
 
-Contains the starter codes for the basic HTML page. Includes a <div> for SVG graphing.
+Contains the starter codes for the basic HTML page. Includes a div element for SVG graphing.
 
 * assets
 
