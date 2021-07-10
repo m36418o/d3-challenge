@@ -4,6 +4,9 @@ In this module, we used the prior knowledge of graphs from plotly and apply it w
 
 ## File Content
 * index.html
+
 Contains the starter codes for the basic HTML page. Includes a <div> for SVG graphing.
+
 * assets
+
 Contains the JavaScript, CSS, and the data source for completing this graphing challenge. 
